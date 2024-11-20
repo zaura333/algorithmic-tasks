@@ -1,9 +1,11 @@
 public class Solution {
     public int TakeCharacters(string s, int k) {
+
         if (k == 0) return 0;
+        
         char[] letters = ['a', 'b', 'c'];
         var frequencies = new Dictionary<char, int>();
-        var results = new List<int>();
+        int result = Int32.MaxValue;
         foreach(var l in letters) {
             frequencies.Add(l, 0);
         }
@@ -18,31 +20,22 @@ public class Solution {
         }
 
         int start = 0;
-        int end = 0;
 
-        while (start < s.Length && end < s.Length - 1) {
-            // foreach (var f in frequencies.Values) {
-            //     // Console.WriteLine("Elements: " + f);
-            // }
-            if (frequencies[s[end]] - 1 >= k) {
-                frequencies[s[end]] -= 1;
-                end++;
-            } else {
+        for (int end = 0; end < s.Length; end++) {
+        frequencies[s[end]] -= 1;
+
+            while (frequencies['a'] < k || frequencies['b'] < k || frequencies['c'] < k) {
                 frequencies[s[start]] += 1;
                 start++;
-                if(end < start) {
-                    end++;
-                }
             }
 
-            if (!frequencies.Values.Any(value => value < k)) {
-                // Console.WriteLine(s.Length);
-                // Console.WriteLine("added " + (s.Length - end + start));
-                results.Add(s.Length - end + start);
+            if (frequencies['a'] >= k || frequencies['b'] >= k || frequencies['c'] >= k) {
+                int currResult = s.Length - (end - start + 1);
+                result = result < currResult ? result : currResult;
             }
-            // Console.WriteLine("start: {0}, end: {1}", start, end);
+            
         }
 
-        return results.Min();
+        return result;
     }
 }
