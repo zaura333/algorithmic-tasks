@@ -6,5 +6,6 @@
 - **03.12.2024** - [Link](https://leetcode.com/problems/adding-spaces-to-a-string/description/?envType=daily-question&envId=2024-12-03) - 2109. Adding Spaces to a String - [Solution](03-Dec-24/solution.ts)
 - **04.12.2024** - [Link](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/description/?envType=daily-question&envId=2024-12-04) - 2825. Make String a Subsequence Using Cyclic Increments - [Solution](04-Dec-24/solution.ts)
 - **10.12.204** - [Link](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/?envType=daily-question&envId=2024-12-10) - 2981. Find Longest Special Substring That Occurs Thrice I - [Solution](dec-24/10-Dec-24/solution.cpp)
+- **11.12.2024** - [Link](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/description/?envType=daily-question&envId=2024-12-11) - 2779. Maximum Beauty of an Array After Applying Operation - [Solution](dec-24/11-Dec-24/solution.cpp)
 
 <!-- - **DATE** - [Link]() - TITLE - [Solution]() -->
