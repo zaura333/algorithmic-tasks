@@ -14,5 +14,6 @@
 - **07.01.2025** - [Link](https://leetcode.com/problems/string-matching-in-an-array/?envType=daily-question&envId=2025-01-08) - 1408. String Matching in an Array - [Solution](2025\jan-2025\07-Jan-2025\solution.cpp)
 - **08.01.2025** - [Link](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/?envType=daily-question&envId=2025-01-08) - 3042. Count Prefix and Suffix Pairs I - [Solution](2025\jan-2025\08-Jan-2025\solution.cpp)
 - **09.01.2025** - [Link](https://leetcode.com/problems/counting-words-with-a-given-prefix/?envType=daily-question&envId=2025-01-09) - 2185. Counting Words With a Given Prefix - [Solution](2025\jan-2025\09-Jan-2025\solution.cpp)
+- **10.10.2025** - [Link](https://leetcode.com/problems/word-subsets/description/?envType=daily-question&envId=2025-01-10) - 916. Word Subsets - [Solution](2025\jan-2025\10-Jan-2025\solution.cpp)
 
 <!-- - **DATE** - [Link]() - TITLE - [Solution]() -->
