@@ -18,5 +18,6 @@
 - **14.01.2025** - [Link](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/?envType=daily-question&envId=2025-01-14) - 2657. Find the Prefix Common Array of Two Arrays - [Solution](2025\jan-2025\14-Jan-2025\solution.cpp)
 - **15.01.2025** - [Link](https://leetcode.com/problems/minimize-xor/description/?envType=daily-question&envId=2025-01-15) - 2429. Minimize XOR - [Solution](2025\jan-2025\15-Jan-2025\solution.cpp)
 - **16.01.2025** - [Link](https://leetcode.com/problems/bitwise-xor-of-all-pairings/?envType=daily-question&envId=2025-01-16) - 2425. Bitwise XOR of All Pairings - [Solution](2025\jan-2025\16-Jan-2025\solution.cpp)
+- **17.01.2025** - [Link](https://leetcode.com/problems/neighboring-bitwise-xor/?envType=daily-question&envId=2025-01-17) - 2683. Neighboring Bitwise XOR - [Solution](2025\jan-2025\17-Jan-2025\solution.cpp)
 
 <!-- - **DATE** - [Link]() - TITLE - [Solution]() -->
