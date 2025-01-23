@@ -20,5 +20,6 @@
 - **16.01.2025** - [Link](https://leetcode.com/problems/bitwise-xor-of-all-pairings/?envType=daily-question&envId=2025-01-16) - 2425. Bitwise XOR of All Pairings - [Solution](2025\jan-2025\16-Jan-2025\solution.cpp)
 - **17.01.2025** - [Link](https://leetcode.com/problems/neighboring-bitwise-xor/?envType=daily-question&envId=2025-01-17) - 2683. Neighboring Bitwise XOR - [Solution](2025\jan-2025\17-Jan-2025\solution.cpp)
 - **21.01.2025** - [Link](https://leetcode.com/problems/grid-game/?envType=daily-question&envId=2025-01-21) - 2017. Grid Game - [Solution](2025\jan-2025\21-Jan-2025\solution.cpp)
+- **23.01.2025** - [Link](https://leetcode.com/problems/count-servers-that-communicate/?envType=daily-question&envId=2025-01-23) - 1267. Count Servers that Communicate - [Solution](2025\jan-2025\23-Jan-2025\solution.cpp)
 
 <!-- - **DATE** - [Link]() - TITLE - [Solution]() -->
