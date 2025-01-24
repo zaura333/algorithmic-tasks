@@ -22,5 +22,6 @@
 - **21.01.2025** - [Link](https://leetcode.com/problems/grid-game/?envType=daily-question&envId=2025-01-21) - 2017. Grid Game - [Solution](2025\jan-2025\21-Jan-2025\solution.cpp)
 - **22.01.2025** - [Link](https://leetcode.com/problems/map-of-highest-peak/description/?envType=daily-question&envId=2025-01-23) - 1765. Map of Highest Peak - [Solution](2025\jan-2025\22-Jan-2025\solution.cpp)
 - **23.01.2025** - [Link](https://leetcode.com/problems/count-servers-that-communicate/?envType=daily-question&envId=2025-01-23) - 1267. Count Servers that Communicate - [Solution](2025\jan-2025\23-Jan-2025\solution.cpp)
+- **24.01.2025** - [Link](https://leetcode.com/problems/find-eventual-safe-states/?envType=daily-question&envId=2025-01-24) - 802. Find Eventual Safe States - [Solution](2025\jan-2025\24-Jan-2025\solution.cpp)
 
 <!-- - **DATE** - [Link]() - TITLE - [Solution]() -->
