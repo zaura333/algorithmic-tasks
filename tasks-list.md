@@ -31,5 +31,6 @@
 23. **23.01.2025** - [Link](https://leetcode.com/problems/count-servers-that-communicate/?envType=daily-question&envId=2025-01-23) - 1267. Count Servers that Communicate - [Solution](2025\jan-2025\23-Jan-2025\solution.cpp)
 24. **24.01.2025** - [Link](https://leetcode.com/problems/find-eventual-safe-states/?envType=daily-question&envId=2025-01-24) - 802. Find Eventual Safe States - [Solution](2025\jan-2025\24-Jan-2025\solution.cpp)
 25. **27.01.2025** - [Link](https://leetcode.com/problems/course-schedule-iv/?envType=daily-question&envId=2025-01-27) - 1462. Course Schedule IV - [Solution](2025\jan-2025\27-Jan-2025\solution.cpp)
+26. **28.01.2025** - [Link](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/?envType=daily-question&envId=2025-01-28) - 2658. Maximum Number of Fish in a Grid - [Solution](2025\jan-2025\28-Jan-2025\solution.cpp)
 
 <!-- - **DATE** - [Link]() - TITLE - [Solution]() -->
