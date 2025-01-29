@@ -34,5 +34,6 @@
 24. **24.01.2025** - [Link](https://leetcode.com/problems/find-eventual-safe-states/?envType=daily-question&envId=2025-01-24) - 802. Find Eventual Safe States - [Solution](2025\jan-2025\24-Jan-2025\solution.cpp)
 25. **27.01.2025** - [Link](https://leetcode.com/problems/course-schedule-iv/?envType=daily-question&envId=2025-01-27) - 1462. Course Schedule IV - [Solution](2025\jan-2025\27-Jan-2025\solution.cpp)
 26. **28.01.2025** - [Link](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/?envType=daily-question&envId=2025-01-28) - 2658. Maximum Number of Fish in a Grid - [Solution](2025\jan-2025\28-Jan-2025\solution.cpp)
+27. **29.01.2025** - [Link](https://leetcode.com/problems/redundant-connection/?envType=daily-question&envId=2025-01-29) - 684. Redundant Connection - [Solution](2025\jan-2025\29-Jan-2025\solution.cpp)
 
 <!-- - **DATE** - [Link]() - TITLE - [Solution]() -->
