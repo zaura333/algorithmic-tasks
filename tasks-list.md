@@ -1,5 +1,7 @@
 # Tasks list
 ## Leetcode
+### Miscellaneous:
+1. **28.01.2025** - [Link](https://leetcode.com/problems/regular-expression-matching/description/) - 10. Regular Expression Matching - [Solution](misc/lc10.cpp)
 ### Daily challenges:
 #### 2024
 ##### November
