@@ -38,6 +38,7 @@
 27. **29.01.2025** - [Link](https://leetcode.com/problems/redundant-connection/?envType=daily-question&envId=2025-01-29) - 684. Redundant Connection - [Solution](2025\jan-2025\29-Jan-2025\solution.cpp)
 
 ##### February
-28. **04.02.2025** - [Link](https://leetcode.com/problems/maximum-ascending-subarray-sum/description/) - 1800. Maximum Ascending Subarray Sum - [Solution](2025/feb-2025/04-Feb-2025/solution.cpp)
+28. **03.02.2025** - [Link](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/?envType=daily-question&envId=2025-02-04) - 3105. Longest Strictly Increasing or Strictly Decreasing Subarray - [Solution](2025/feb-2025/03-Feb-2025/solution.cpp)
+29. **04.02.2025** - [Link](https://leetcode.com/problems/maximum-ascending-subarray-sum/description/) - 1800. Maximum Ascending Subarray Sum - [Solution](2025/feb-2025/04-Feb-2025/solution.cpp)
 
 <!-- - **DATE** - [Link]() - TITLE - [Solution]() -->
