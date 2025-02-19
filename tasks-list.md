@@ -43,5 +43,6 @@
 30. | **03.02.2025** - [Link](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/?envType=daily-question&envId=2025-02-04) - 3105. Longest Strictly Increasing or Strictly Decreasing Subarray - [Solution](2025/feb-2025/03-Feb-2025/solution.cpp)
 31. | **04.02.2025** - [Link](https://leetcode.com/problems/maximum-ascending-subarray-sum/description/) - 1800. Maximum Ascending Subarray Sum - [Solution](2025/feb-2025/04-Feb-2025/solution.cpp)
 32. | **05.02.2025** - [Link](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/?envType=daily-question&envId=2025-02-05) - 1790. Check if One String Swap Can Make Strings Equal - [Solution](2025/feb-2025/05-Feb-2025/solution.cpp)
+33. | **19.02.2025** - [Link](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/description/) - 1415. The k-th Lexicographical String of All Happy Strings of Length n - [Solution](2025/feb-2025/19-Feb-2025/solution.cpp)
 
 <!-- - **DATE** - [Link]() - TITLE - [Solution]() -->
