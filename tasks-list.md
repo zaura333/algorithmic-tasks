@@ -4,6 +4,7 @@
 1. | **28.01.2025** - [Link](https://leetcode.com/problems/regular-expression-matching/description/) - 10. Regular Expression Matching - [Solution](misc/lc10.cpp)
 2. | **30.01.2025** - [Link](https://leetcode.com/problems/is-graph-bipartite/) - 785. Is Graph Bipartite? - [Solution](misc/lc785.cpp)
 3. | **21.02.2025** - [Link](https://leetcode.com/problems/find-unique-binary-string/?envType=daily-question&envId=2025-02-21) - 1260. Shift 2D Grid - [Solution](misc/lc1260.cpp)
+4. | **25.02.2025** - [Link](https://leetcode.com/problems/longest-increasing-subsequence/description/) - 300. Longest Increasing Subsequence - [Solution](misc/lc300.cpp)
 ### Daily challenges:
 #### 2024
 ##### November
