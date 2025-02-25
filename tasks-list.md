@@ -4,8 +4,9 @@
 1. | **28.01.2025** - [Link](https://leetcode.com/problems/regular-expression-matching/description/) - 10. Regular Expression Matching - [Solution](misc/lc10.cpp)
 2. | **30.01.2025** - [Link](https://leetcode.com/problems/is-graph-bipartite/) - 785. Is Graph Bipartite? - [Solution](misc/lc785.cpp)
 3. | **21.02.2025** - [Link](https://leetcode.com/problems/find-unique-binary-string/?envType=daily-question&envId=2025-02-21) - 1260. Shift 2D Grid - [Solution](misc/lc1260.cpp)
-4. | **25.02.2025** - [Link](https://leetcode.com/problems/longest-increasing-subsequence/description/) - 300. Longest Increasing Subsequence - [Solution](misc/lc300.cpp)
-5. | **25.02.2025** - [Link](https://leetcode.com/problems/count-the-number-of-fair-pairs/description/) - 2563. Count the Number of Fair Pairs - [Solution](misc/lc2563.cpp)
+4. | **25.02.2025** - [Link](https://leetcode.com/problems/longest-increasing-subsequence/description/) - 300. Longest Increasing Subsequence - [Solution](misc/lc300.cpp) <*dynamic programming*>
+5. | **25.02.2025** - [Link](https://leetcode.com/problems/count-the-number-of-fair-pairs/description/) - 2563. Count the Number of Fair Pairs - [Solution](misc/lc2563.cpp) <*two pointers*>
+6. | **25.02.2025** - [Link](https://leetcode.com/problems/sentence-similarity-iii/description/) - 1813. Sentence Similarity III - [Solution](misc/lc1813.cpp)
 ### Daily challenges:
 #### 2024
 ##### November
