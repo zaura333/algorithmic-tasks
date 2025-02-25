@@ -47,5 +47,6 @@
 33. | **19.02.2025** - [Link](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/description/) - 1415. The k-th Lexicographical String of All Happy Strings of Length n - [Solution](2025/feb-2025/19-Feb-2025/solution.cpp)
 34. | **21.02.2025** - [Link](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/?envType=daily-question&envId=2025-02-21) - 1261. Find Elements in a Contaminated Binary Tree - [Solution](2025/feb-2025/21-Feb-2025/solution.cpp)
 35. | **24.02.2025** - [Link](https://leetcode.com/problems/most-profitable-path-in-a-tree/?envType=daily-question&envId=2025-02-24) - 2467. Most Profitable Path in a Tree - [Solution](2025/feb-2025/24-Feb-2025/solution.cpp)
+36. | **25.02.2025** - [Link](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/?envType=daily-question&envId=2025-02-25) - 1524. Number of Sub-arrays With Odd Sum - [Solution](2025/feb-2025/25-Feb-2025/solution.cpp) <*dynamic programming*>
 
 <!-- - **DATE** - [Link]() - TITLE - [Solution]() -->
