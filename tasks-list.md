@@ -51,5 +51,6 @@
 34. | **21.02.2025** - [Link](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/?envType=daily-question&envId=2025-02-21) - 1261. Find Elements in a Contaminated Binary Tree - [Solution](2025/feb-2025/21-Feb-2025/solution.cpp)
 35. | **24.02.2025** - [Link](https://leetcode.com/problems/most-profitable-path-in-a-tree/?envType=daily-question&envId=2025-02-24) - 2467. Most Profitable Path in a Tree - [Solution](2025/feb-2025/24-Feb-2025/solution.cpp)
 36. | **25.02.2025** - [Link](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/?envType=daily-question&envId=2025-02-25) - 1524. Number of Sub-arrays With Odd Sum - Solutions: [Dynamic programming](2025/feb-2025/25-Feb-2025/solution.cpp), [Prefix sum](2025/feb-2025/25-Feb-2025/prefix-sum-solution.cpp) <*dynamic programming*, *prefix sum*>
+37. | **26.02.2025** - [Link](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/?envType=daily-question&envId=2025-02-26) - 1749. Maximum Absolute Sum of Any Subarray - Solutions: [Dynamic programming](2025/feb-2025/26-Feb-2025/solution.cpp), [Prefix sum](2025/feb-2025/26-Feb-2025/prefix-sum-solution.cpp) <*dynamic programming*, *Kadane's algorithm*, *prefix sum*>
 
 <!-- - **DATE** - [Link]() - TITLE - [Solution]() -->
