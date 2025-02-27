@@ -7,6 +7,7 @@
 4. | **25.02.2025** - [Link](https://leetcode.com/problems/longest-increasing-subsequence/description/) - 300. Longest Increasing Subsequence - [Solution](misc/lc300.cpp) <*dynamic programming*>
 5. | **25.02.2025** - [Link](https://leetcode.com/problems/count-the-number-of-fair-pairs/description/) - 2563. Count the Number of Fair Pairs - [Solution](misc/lc2563.cpp) <*two pointers*>
 6. | **25.02.2025** - [Link](https://leetcode.com/problems/sentence-similarity-iii/description/) - 1813. Sentence Similarity III - [Solution](misc/lc1813.cpp)
+7. | **26.02.2025** - [Link](https://leetcode.com/problems/special-array-ii/description/) - 3152. Special Array II - [Solution](misc/lc3152.cpp)
 ### Daily challenges:
 #### 2024
 ##### November
