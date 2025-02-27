@@ -53,5 +53,6 @@
 35. | **24.02.2025** - [Link](https://leetcode.com/problems/most-profitable-path-in-a-tree/?envType=daily-question&envId=2025-02-24) - 2467. Most Profitable Path in a Tree - [Solution](2025/feb-2025/24-Feb-2025/solution.cpp)
 36. | **25.02.2025** - [Link](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/?envType=daily-question&envId=2025-02-25) - 1524. Number of Sub-arrays With Odd Sum - Solutions: [Dynamic programming](2025/feb-2025/25-Feb-2025/solution.cpp), [Prefix sum](2025/feb-2025/25-Feb-2025/prefix-sum-solution.cpp) <*dynamic programming*, *prefix sum*>
 37. | **26.02.2025** - [Link](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/?envType=daily-question&envId=2025-02-26) - 1749. Maximum Absolute Sum of Any Subarray - Solutions: [Dynamic programming](2025/feb-2025/26-Feb-2025/solution.cpp), [Prefix sum](2025/feb-2025/26-Feb-2025/prefix-sum-solution.cpp) <*dynamic programming*, *Kadane's algorithm*, *prefix sum*>
+38. | **27.02.2025** - [Link](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/?envType=daily-question&envId=2025-02-27) - 873. Length of Longest Fibonacci Subsequence - [Solution](2025/feb-2025/27-Feb-2025/solution.cpp) <*dynamic programming*>
 
 <!-- - **DATE** - [Link]() - TITLE - [Solution]() -->
