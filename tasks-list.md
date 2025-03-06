@@ -55,6 +55,7 @@
 37. | **26.02.2025** - [Link](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/?envType=daily-question&envId=2025-02-26) - 1749. Maximum Absolute Sum of Any Subarray - Solutions: [Dynamic programming](2025/feb-2025/26-Feb-2025/solution.cpp), [Prefix sum](2025/feb-2025/26-Feb-2025/prefix-sum-solution.cpp) <*dynamic programming*, *Kadane's algorithm*, *prefix sum*>
 38. | **27.02.2025** - [Link](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/?envType=daily-question&envId=2025-02-27) - 873. Length of Longest Fibonacci Subsequence - [Solution](2025/feb-2025/27-Feb-2025/solution.cpp) <*dynamic programming*>
 ##### March
-39. | **03.05.2025** - [Link](https://leetcode.com/problems/count-total-number-of-colored-cells/description/?envType=daily-question&envId=2025-03-05) - 2579. Count Total Number of Colored Cells - [Solution](2025/mar-2025/05-Mar-2025.cpp)
+39. | **05.03.2025** - [Link](https://leetcode.com/problems/count-total-number-of-colored-cells/description/?envType=daily-question&envId=2025-03-05) - 2579. Count Total Number of Colored Cells - [Solution](2025/mar-2025/05-Mar-2025.cpp)
+40. | **06.03.2025** - [Link](https://leetcode.com/problems/find-missing-and-repeated-values/?envType=daily-question&envId=2025-03-06) - 2965. Find Missing and Repeated Values - [Solution](2025/mar-2025/06-Mar-2025.cpp)
 
 <!-- - **DATE** - [Link]() - TITLE - [Solution]() -->
