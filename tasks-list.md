@@ -57,5 +57,6 @@
 ##### March
 39. | **05.03.2025** - [Link](https://leetcode.com/problems/count-total-number-of-colored-cells/description/?envType=daily-question&envId=2025-03-05) - 2579. Count Total Number of Colored Cells - [Solution](2025/mar-2025/05-Mar-2025.cpp)
 40. | **06.03.2025** - [Link](https://leetcode.com/problems/find-missing-and-repeated-values/?envType=daily-question&envId=2025-03-06) - 2965. Find Missing and Repeated Values - [Solution](2025/mar-2025/06-Mar-2025.cpp)
+41. **07.03.2025** - [Link](https://leetcode.com/problems/closest-prime-numbers-in-range/description/?envType=daily-question&envId=2025-03-07) - 2523. Closest Prime Numbers in Range - [Solution](2025/mar-2025/07-Mar-2025.cpp)
 
 <!-- - **DATE** - [Link]() - TITLE - [Solution]() -->
