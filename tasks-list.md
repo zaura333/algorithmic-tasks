@@ -60,5 +60,7 @@
 41. | **07.03.2025** - [Link](https://leetcode.com/problems/closest-prime-numbers-in-range/description/?envType=daily-question&envId=2025-03-07) - 2523. Closest Prime Numbers in Range - [Solution](2025/mar-2025/07-Mar-2025.cpp)
 42. | **08.03.2025** - [Link](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description/?envType=daily-question&envId=2025-03-08) - 2379. Minimum Recolors to Get K Consecutive Black Blocks - [Solution](2025/mar-2025/08-Mar-2025.cpp) <*sliding window*>
 43. | **09.03.2025** - [Link](https://leetcode.com/problems/alternating-groups-ii/description/?envType=daily-question&envId=2025-03-09) - 3208. Alternating Groups II - [Solution](2025/mar-2025/09-Mar-2025.cpp) <*sliding window*>
+44. | **17.03.2025** - [Link](https://leetcode.com/problems/divide-array-into-equal-pairs/description/?envType=daily-question&envId=2025-03-17) - 2206. Divide Array Into Equal Pairs - [Solution](2025/mar-2025/17-Mar-2025.cpp)
+45. | **18.03.2025** - [Link](https://leetcode.com/problems/longest-nice-subarray/description/?envType=daily-question&envId=2025-03-18) - 2401. Longest Nice Subarray - [Solution](2025/mar-2025/18-Mar-2025.cpp)
 
 <!-- - **DATE** - [Link]() - TITLE - [Solution]() -->
