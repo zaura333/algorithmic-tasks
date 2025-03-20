@@ -63,5 +63,6 @@
 44. | **17.03.2025** - [Link](https://leetcode.com/problems/divide-array-into-equal-pairs/description/?envType=daily-question&envId=2025-03-17) - 2206. Divide Array Into Equal Pairs - [Solution](2025/mar-2025/17-Mar-2025.cpp)
 45. | **18.03.2025** - [Link](https://leetcode.com/problems/longest-nice-subarray/description/?envType=daily-question&envId=2025-03-18) - 2401. Longest Nice Subarray - [Solution](2025/mar-2025/18-Mar-2025.cpp)
 46. | **19.03.2025** - [Link](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/?envType=daily-question&envId=2025-03-19) - 3191. Minimum Operations to Make Binary Array Elements Equal to One I - [Solution](2025/mar-2025/19-Mar-2025.cpp)
+47. | **20.03.2025** - [Link](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/description/?envType=daily-question&envId=2025-03-20) - 3108. Minimum Cost Walk in Weighted Graph - [Solution](2025/mar-2025/20-Mar-2025.cpp) <*graph*, *disjoint union set*, *bitwise*>
 
 <!-- - **DATE** - [Link]() - TITLE - [Solution]() -->
