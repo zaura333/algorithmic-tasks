@@ -66,5 +66,6 @@
 47. | **20.03.2025** - [Link](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/description/?envType=daily-question&envId=2025-03-20) - 3108. Minimum Cost Walk in Weighted Graph - [Solution](2025/mar-2025/20-Mar-2025.cpp) <*graph*, *disjoint union set*, *bitwise*>
 48. | **21.03.2025** - [Link](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/?envType=daily-question&envId=2025-03-21) - 2115. Find All Possible Recipes from Given Supplies - [Solution](2025/mar-2025/21-Mar-2025.cpp) <*topologicalsort*>
 49. | **26.03.2025** - [Link](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/description/?envType=daily-question&envId=2025-03-26) - 2033. Minimum Operations to Make a Uni-Value Grid - [Solution](2025/mar-2025/26-Mar-2025.cpp)
+50. | **27.03.2025** - [Link](https://leetcode.com/problems/minimum-index-of-a-valid-split/description/?envType=daily-question&envId=2025-03-27) - 2780. Minimum Index of a Valid Split - [Solution](2025/mar-2025/27-Mar-2025.cpp)
 
 <!-- - **DATE** - [Link]() - TITLE - [Solution]() -->
